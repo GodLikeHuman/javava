@@ -2,7 +2,7 @@ package src;
 
 import java.util.Scanner;
 
-class FactorialDemo{
+class FactorialDemo {
         public static void main(String args[]){
                 //Scanner object for capturing the user input
                 Scanner scanner = new Scanner(System.in);

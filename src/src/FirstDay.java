@@ -1,3 +1,5 @@
+package src;
+
 public class FirstDay {
 
     void showData(){

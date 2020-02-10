@@ -1,4 +1,4 @@
-import jdk.nashorn.internal.ir.IfNode;
+package src;
 
 import java.util.Scanner;
 
